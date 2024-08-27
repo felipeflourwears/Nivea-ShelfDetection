@@ -27,5 +27,12 @@ pause
 
 ### Hardware
 
-<img src="./img/esp32.jpeg" alt="main" width="100" height="100">
-<img src="./img/ultrasonic.jpeg" alt="main" width="100" height="100">
+<ul>
+  <li>ESP32 entrada C</li>
+  <li>Ultrasonicos HSRC4</li>
+</ul>
+
+<div style="display: flex; gap: 10px;">
+  <img src="./img/esp32.jpeg" alt="ESP32" width="100" height="100">
+  <img src="./img/ultrasonic.jpeg" alt="Ultrasonic" width="100" height="100">
+</div>
