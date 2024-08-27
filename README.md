@@ -24,3 +24,8 @@ cd "C:\Users\HP\Documents\IQOS-ShelfDetection-master"
 python change.py
 pause
 ```
+
+### Hardware
+
+<img src="./img/esp32.jpeg" alt="main" width="500" height="500">
+<img src="./img/ultrasonic.jpeg" alt="main" width="500" height="500">
