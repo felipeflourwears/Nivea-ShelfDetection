@@ -27,5 +27,5 @@ pause
 
 ### Hardware
 
-<img src="./img/esp32.jpeg" alt="main" width="500" height="500">
-<img src="./img/ultrasonic.jpeg" alt="main" width="500" height="500">
+<img src="./img/esp32.jpeg" alt="main" width="100" height="100">
+<img src="./img/ultrasonic.jpeg" alt="main" width="100" height="100">
